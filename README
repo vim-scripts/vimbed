@@ -1,12 +1,12 @@
 This is a mirror of http://www.vim.org/scripts/script.php?script_id=4956
 
-Shadowvim is a Vim plugin for embedding Vim in other programs.
+Vimbed is a Vim plugin for embedding Vim in other programs.
 
-Run Vim in the background using Shadowvim to ease communication with external processes.
+Run Vim in the background using Vimbed to ease communication with external processes.
 
-Projects that use Shadowvim:
+Projects that use Vimbed:
     Pterosaur embeds Vim in Firefox textboxes.
     Chalcogen embeds Vim in the Atom editor.
 
-See http://github.com/ardagnir/shadowvim for more info.
+See http://github.com/ardagnir/vimbed for more info.
 
